@@ -1,9 +1,9 @@
 # COS 201 - Computer Programming I
 
 ## Student Details
-- **Name:** Ausaji ThankGod Manyo
-- **Matriculation Number:** 25/16454
-- **Programme:** Software Engineering
+- **Name:** Imasuen Solomon Nelson
+- **Matriculation Number:** 26/21319
+- **Programme:** Cyber Security
 - **Course Code:** COS 201
 
 ---
